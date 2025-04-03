@@ -1,5 +1,7 @@
-## Hi there 👋
 
+<center><h2> Sejam Bem-Vindos ao meu Github! 👋</h2></center>
+
+![Gif programador](https://media.tenor.com/i3lImBg2UEQAAAAM/scaler-create-impact.gif)
 <!--
 **Arthurrosa1/Arthurrosa1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
