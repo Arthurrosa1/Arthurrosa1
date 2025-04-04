@@ -9,10 +9,12 @@ width=400px></center>
 📫 [Acesse meu Linkedin](https://www.linkedin.com/in/arthurkalbuschrosa/)
 
 ![Arthur Rosa GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthurrosa1&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurrosa1&layout=compact)
+![Arthur Rosa GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=allineantunnes&layout=compact&langs_count=7&theme=dracula)
 
 
+<div>
 
+</div>
 
  ### Minhas Tecnologias
  <p align="left">
@@ -23,21 +25,3 @@ width=400px></center>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" width=50px>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain-wordmark.svg" width=50px>
 </p>
-
-
-
-
-<!--
-**Arthurrosa1/Arthurrosa1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
