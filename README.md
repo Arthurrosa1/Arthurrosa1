@@ -7,9 +7,6 @@ width=400px></center>
 🌎 Hello World, Sou Arthur Kalbusch Rosa!<br>
 🎓 Estou Cursando Análise e Desenvolvimento de Sistemas (5ª Fase).<br>
 
-📫 [Acesse meu Linkedin](https://www.linkedin.com/in/arthurkalbuschrosa/)<br>
-📷 [Acesse meu Instagram](https://www.instagram.com/arthur.kr_/)<br>
-
 ---
 
  <div>
@@ -31,7 +28,7 @@ width=400px></center>
 </p>
 
 ---
-<p>📫 <h2>Contatos</h2></p>
+### 📫 Contatos
 
 <div> 
   <a href="https://www.instagram.com/arthur.kr_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
