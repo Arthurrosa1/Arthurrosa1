@@ -1,11 +1,9 @@
-# Sejam Bem-Vindos ao meu Github 👋
-
 <div align="center"> 
-<p>Sejam Bem-Vindos ao meu Github 👋</p>
+<p><h1>Sejam Bem-Vindos ao meu Github 👋</h1></p>
 </div>
 
 <div align="center">
-  <img src="https://media.tenor.com/i3lImBg2UEQAAAAM/scaler-create-impact.gif" width="400px">
+  <img src="https://media.tenor.com/i3lImBg2UEQAAAAM/scaler-create-impact.gif" width="500px">
 </div>
 
 ---
