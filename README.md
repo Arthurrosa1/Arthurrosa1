@@ -1,9 +1,9 @@
 <div align="center"> 
-<p><h1>Sejam Bem-Vindos ao meu Github 👋</h1></p>
+<p><h1>Sejam Bem-Vindos ao meu Github👋</h1></p>
 </div>
 
 <div align="center">
-  <img src="https://media.tenor.com/i3lImBg2UEQAAAAM/scaler-create-impact.gif" width="500px">
+  <img src="https://media.tenor.com/i3lImBg2UEQAAAAM/scaler-create-impact.gif" width="600px">
 </div>
 
 ---
