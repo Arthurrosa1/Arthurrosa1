@@ -1,7 +1,12 @@
 # Sejam Bem-Vindos ao meu Github 👋
 
-<center><img src= "https://media.tenor.com/i3lImBg2UEQAAAAM/scaler-create-impact.gif"
-width=500px></center>
+<div align="center"> 
+<p>Sejam Bem-Vindos ao meu Github 👋</p>
+</div>
+
+<div align="center">
+  <img src="https://media.tenor.com/i3lImBg2UEQAAAAM/scaler-create-impact.gif" width="400px">
+</div>
 
 ---
 🌎 Hello World, Sou Arthur Kalbusch Rosa!<br>
