@@ -9,6 +9,9 @@ width=400px></center>
 📫 [Acesse meu Linkedin](https://www.linkedin.com/in/arthurkalbuschrosa/)
 
 ![Arthur Rosa GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthurrosa1&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurrosa1&langs_count=8)
+
+
 
  ### Minhas Tecnologias
  <p align="left">
