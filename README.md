@@ -6,6 +6,7 @@ width=400px></center>
 ---
 🌎 Hello World, Sou Arthur Kalbusch Rosa!<br>
 🎓 Estou Cursando Análise e Desenvolvimento de Sistemas (5ª Fase).<br>
+📚 Sempre Querendo Aprender Mais.
 
 ---
 
