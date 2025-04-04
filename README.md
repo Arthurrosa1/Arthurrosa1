@@ -3,7 +3,7 @@
 <center><img src= "https://media.tenor.com/i3lImBg2UEQAAAAM/scaler-create-impact.gif"
 width=400px></center>
 
----------------------------
+---
 🌎 Hello World, Sou Arthur Kalbusch Rosa! <br>
 🎓 Estou Cursando Análise e Desenvolvimento de Sistemas (5ª Fase). <br>
 📫 [Acesse meu Linkedin](https://www.linkedin.com/in/arthurkalbuschrosa/)
