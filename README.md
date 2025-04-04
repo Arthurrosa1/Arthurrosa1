@@ -8,7 +8,6 @@ width=400px></center>
 🎓 Estou Cursando Análise e Desenvolvimento de Sistemas (5ª Fase). <br>
 📫 [Acesse meu Linkedin](https://www.linkedin.com/in/arthurkalbuschrosa/)<br>
 📷 [Acesse meu Instagram](https://www.instagram.com/arthur.kr_/)<br>
-📧 [Entre em Contato atravez do E-Mail]("mailto:arthurrosa3849@gmail.com")
 
 ---
 
