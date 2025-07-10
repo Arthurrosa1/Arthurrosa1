@@ -8,7 +8,7 @@
 
 ---
 🌎 Hello World, Sou Arthur Kalbusch Rosa!<br>
-🎓 Estou Cursando Análise e Desenvolvimento de Sistemas (5ª Fase).<br>
+🎓 Formado em Análise e Desenvolvimento de Sistemas .<br>
 📚 Sempre Querendo Aprender Mais.
 
 ---
