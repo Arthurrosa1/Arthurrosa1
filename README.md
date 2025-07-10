@@ -8,7 +8,7 @@
 
 ---
 🌎 Hello World, Sou Arthur Kalbusch Rosa!<br>
-🎓 Formado em Análise e Desenvolvimento de Sistemas .<br>
+🎓 Formado em Análise e Desenvolvimento de Sistemas.<br>
 📚 Sempre Querendo Aprender Mais.
 
 ---
